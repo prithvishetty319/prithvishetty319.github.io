@@ -10,4 +10,6 @@ Required files:
 - prithvi-shetty-social-preview.png
 - .nojekyll
 
+Keep the existing Prithvi_Shetty_Senior_Data_Engineer_Resume.pdf file in the repository root. Both resume buttons link to that file.
+
 README_UPLOAD.txt is instructional and may also be uploaded.
